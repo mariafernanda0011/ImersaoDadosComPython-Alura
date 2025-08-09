@@ -1,6 +1,8 @@
 # Imersão Dados Com Python|Alura 📊
 
-_Este repositório contém todos os materiais desenvolvidos durante a **Imersão de Dados** da Alura, projeto focado em capacitar iniciantes para trabalhar com análise e visualização de dados utilizando ferramentas como Python, Pandas, Matplotlib e Seaborn._
+# Imersão Dados Com Python | Alura 📊
+
+_Este repositório contém todos os materiais desenvolvidos durante a **Imersão de Dados** da Alura, um projeto focado em capacitar iniciantes para trabalhar com análise e visualização de dados utilizando ferramentas como Python, Pandas, Plotly, Seaborn, NumPy e Streamlit._
 
 ### 🛠️ Tecnologias Utilizadas
 
@@ -8,11 +10,15 @@ _Este repositório contém todos os materiais desenvolvidos durante a **Imersão
 
 📊 **Pandas** — Biblioteca para tratamento e análise de dados estruturados
 
-📈 **Matplotlib** & **Seaborn** — Bibliotecas para visualização de dados
+📈 **Plotly** — Biblioteca interativa para visualizações dinâmicas e gráficos
+
+🌐 **Streamlit** — Framework para criação de dashboards e aplicações web interativas
+
+> Além dessas ferramentas principais, também foram utilizadas outras bibliotecas como **_Seaborn, Matplotlib, NumPy e pycountry_** para complementação e facilitação de tarefas específicas no projeto.
 
 💻 **Jupyter Notebook** — Ambiente interativo utilizado para desenvolvimento e análise
 
-🖥️ **Visual Studio Code** — IDE utilizado no desenvolvimento do app
+🖥️ **Visual Studio Code** — IDE utilizada no desenvolvimento dos projetos
 
 ## Dashboard de Salários da Área de Dados
 
