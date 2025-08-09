@@ -1,6 +1,6 @@
 # Imersão Dados Com Python|Alura 📊
 
-_Este repositório contém todos os materiais desenvolvidos durante a **Imersão de Dados** da Alura, projeto focados em capacitar iniciantes para trabalhar com análise e visualização de dados utilizando ferramentas como Python, Pandas, Matplotlib e Seaborn._
+_Este repositório contém todos os materiais desenvolvidos durante a **Imersão de Dados** da Alura, projeto focado em capacitar iniciantes para trabalhar com análise e visualização de dados utilizando ferramentas como Python, Pandas, Matplotlib e Seaborn._
 
 ### 🛠️ Tecnologias Utilizadas
 
