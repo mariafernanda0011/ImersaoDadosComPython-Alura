@@ -25,7 +25,7 @@ Acesse o **Dashboard de Salários** desenvolvido durante a **Imersão de Dados**
 🔗 **Link para o site do Dashboard**:  
 [Dashboard de Salários da Área de Dados](https://imersaodadospythonn.streamlit.app/)
 
-### 👨‍🏫👩‍🏫 Instrutores da Imersão 
+## 👨‍🏫👩‍🏫 Instrutores da Imersão 
 
 A Imersão de Dados foi conduzida por profissionais renomados da área. Conheça os instrutores:
 
